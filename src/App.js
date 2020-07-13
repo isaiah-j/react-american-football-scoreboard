@@ -2,7 +2,6 @@
 import React from "react";
 import {useState} from 'react'
 import BottomRow from "./BottomRow";
-import "./App.css";
 
 
 
